@@ -1,5 +1,5 @@
 ---
-title: 	Muucmf T6 CMS contains Reflected XSS
+title: 	Muucmf T6 CMS contains Reflected XSS in /admin/Member/index.html?search=
 date: 2026-03-10 00:00:00 +0800
 categories: [Vulnerability Research, Web Security]
 tags: [cve, sqli,  poc, exploit]     # TAG names should always be lowercase
