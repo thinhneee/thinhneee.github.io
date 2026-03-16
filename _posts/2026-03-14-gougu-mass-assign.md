@@ -1,5 +1,5 @@
 ---
-title: 	Gougu CMS contain Mass Assignment in /home/login/reg
+title: 	Gougu CMS contains Mass Assignment in /home/login/reg
 date: 2026-03-14 00:00:00 +0800
 categories: [Vulnerability Research, Web Security]
 tags: [cve, business logic errors,  poc, exploit]     # TAG names should always be lowercase
